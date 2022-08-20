@@ -51,3 +51,4 @@ Best case: Aranan sayının dizinin en başında olması.
 [2,3,4,5,6,9,8,15,7]
 
 
+[patika](https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/insertion-sort-proje)
